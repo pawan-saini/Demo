@@ -1,0 +1,3 @@
+<?php
+mysql("localhost","root","");
+?>
